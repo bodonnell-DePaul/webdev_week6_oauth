@@ -54,3 +54,4 @@ TestResult.xml
 nunit-*.xml
 
 TodoList/frontend/node_modules/
+TodoList/backend/TodoListApi/appsettings.Development.json
